@@ -39,7 +39,7 @@
   width: 100%;
   padding-right: 10px;
   text-decoration: none;
-  color: #00a05a;
+  color: #9838ff;
   font-size: 1.1rem;
   font-weight: 600;
   font-family: 'Saira Extra Condensed', sans-serif;
@@ -84,7 +84,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 254, 111, 15;
+  --bs-primary-rgb: 81, 26, 178;
   --bs-secondary-rgb: 255, 125, 65;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
@@ -115,8 +115,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #f96400;
-  --bs-link-hover-color: #fe6f0f;
+  --bs-link-color: #997ed7;
+  --bs-link-hover-color: #472189;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
